@@ -1,6 +1,7 @@
 #ifndef _DECODER_H_
 #define _DECODER_H_
 
+#include <cstdint>
 #include <string>
 #include <cassert>
 
